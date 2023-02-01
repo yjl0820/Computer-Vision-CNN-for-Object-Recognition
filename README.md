@@ -1,1 +1,1 @@
-# Computer-Vision-CNN-for-Object-Recognition
+# Computer Vision: Convolutional Neural Network for Object Recognition
